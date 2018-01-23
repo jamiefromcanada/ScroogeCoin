@@ -1,7 +1,7 @@
 # ScroogeCoin
 
 # Programming Assignment
-# https://www.coursera.org/learn/cryptocurrency/programming/KOo3V/scrooge-
+https://www.coursera.org/learn/cryptocurrency/programming/KOo3V/scrooge-
 
 # Instructions
 
