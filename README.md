@@ -1,0 +1,3 @@
+# ScroogeCoin
+# ScroogeCoin
+# ScroogeCoin
